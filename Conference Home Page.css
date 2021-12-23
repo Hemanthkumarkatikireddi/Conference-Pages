@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.conference-home-page{
+    width: 400px;
+    height: 600px;
+    border-right: solid 8px black;
+    margin-left:300px ;
+    text-align: center;
+    margin-top: 30px; 
+}
+.conference-home-page img{
+    width: 392px;
+    height: 250px;
+}
+.conference-home-page h1{
+    color: #183b56;
+    font-size: 35px;
+    font-weight: bold;
+    
+    padding:40px 100px 5px 100px;
+}
+.conference-home-page h4{
+    color: #5a7184;
+    font-size: 20px;
+    padding:10px 40px;
+}
+.conference-home-page button{
+    font-size: 15px;
+    color: white;
+    background-color: #2b6eff;
+    width: 120px;
+    height: 40px;
+    border: 0px;
+    border-radius: 5px;
+    margin: 10px 0px;
+}
+.conference-home-page a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
